@@ -28,13 +28,13 @@ Este es el repositorio de la práctica 1 de IPM, curso 2021/22.
   
   * Nombre: Oscar 
   * Apellidos: Ares Bascón
-  * Login UDC:oscar.bascon
-  * Login Github:oscarbascon
+  * Login UDC: oscar.bascon
+  * Login Github: oscarbascon
 
-  * Nombre:
-  * Apellidos:
-  * Login UDC:
-  * Login Github:
+  * Nombre: Sabela
+  * Apellidos: Pita Armada
+  * Login UDC: sabela.pita
+  * Login Github: sabelapita
 
 
 ## Enunciado
